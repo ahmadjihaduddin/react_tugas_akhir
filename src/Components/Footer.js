@@ -21,7 +21,7 @@ const Footer = () => {
       </div>
       <div className="footer-section-two">
         <div className="footer-section-columns">
-          <span>Jl.Karangrejo Sawah</span>
+          <span>Jl.Karang pilang</span>
           <span>+62 82100212199</span>
           <span>baksoMerc@gmail.com</span>
           <span>no cabang"</span>
